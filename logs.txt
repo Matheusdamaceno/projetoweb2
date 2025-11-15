@@ -1,0 +1,25 @@
+[2025-11-15T15:58:49.596Z] [ERROR] Fatal error starting server: connect ECONNREFUSED 127.0.0.1:27017
+[2025-11-15T16:00:16.769Z] [ERROR] Fatal error starting server: connect ECONNREFUSED 127.0.0.1:27017
+[2025-11-15T16:08:20.065Z] [ERROR] Fatal error starting server: connect ECONNREFUSED 127.0.0.1:27017[2025-11-15T16:12:37.844Z] [ERROR] Fatal error starting server: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+[2025-11-15T16:15:55.335Z] [ERROR] Fatal error starting server: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+[2025-11-15T16:19:58.283Z] [INFO] MongoDB connection established successfully.
+[2025-11-15T16:19:58.295Z] [INFO] Server started on port 3000
+[2025-11-15T16:23:14.841Z] [INFO] Request received: [GET] /api/produtos
+[2025-11-15T16:26:03.742Z] [INFO] Request received: [POST] /api/clientes
+[2025-11-15T16:26:03.763Z] [INFO] Inserido em clientes: 6918a99bb3f7832a0a5c8cf1
+[2025-11-15T16:28:33.704Z] [INFO] Request received: [POST] /api/produtos
+[2025-11-15T16:28:33.722Z] [INFO] Inserido em produtos: 6918aa31b3f7832a0a5c8cf2
+[2025-11-15T16:28:44.751Z] [INFO] Request received: [POST] /api/produtos
+[2025-11-15T16:28:44.755Z] [INFO] Inserido em produtos: 6918aa3cb3f7832a0a5c8cf3
+[2025-11-15T16:28:51.909Z] [INFO] Request received: [POST] /api/produtos
+[2025-11-15T16:28:51.912Z] [INFO] Inserido em produtos: 6918aa43b3f7832a0a5c8cf4
+[2025-11-15T16:29:02.336Z] [INFO] Request received: [POST] /api/clientes
+[2025-11-15T16:29:02.340Z] [INFO] Inserido em clientes: 6918aa4eb3f7832a0a5c8cf5
+[2025-11-15T16:29:09.439Z] [INFO] Request received: [POST] /api/clientes
+[2025-11-15T16:29:09.443Z] [INFO] Inserido em clientes: 6918aa55b3f7832a0a5c8cf6
+[2025-11-15T16:29:18.230Z] [INFO] Request received: [POST] /api/pedidos
+[2025-11-15T16:29:18.232Z] [ERROR] Pedido criarPedido: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-11-15T16:29:18.235Z] [ERROR] Error in order route: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-11-15T16:31:30.434Z] [INFO] Request received: [POST] /api/pedidos
+[2025-11-15T16:31:30.454Z] [INFO] Inserido em pedidos: 6918aae2b3f7832a0a5c8cf7
+[2025-11-15T16:32:28.554Z] [INFO] Request received: [GET] /api/pedidos
